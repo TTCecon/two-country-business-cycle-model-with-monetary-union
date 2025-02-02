@@ -1,4 +1,4 @@
-# Two-Country Business Cycle Model with a Monetary Union
+# Two-Country Business Cycle Model with Monetary Union
 
 ## Overview
 
